@@ -1,6 +1,6 @@
 <?php
 
-$conexion=mysqli_connect("localhost","root","Futuremx.123","test");
+$conexion=mysqli_connect("localhost","root","root","test");
 
 
 ?>
